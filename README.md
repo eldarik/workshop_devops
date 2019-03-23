@@ -19,3 +19,6 @@
 - [docker storage](https://docs.docker.com/storage/)
 - [ansible galaxy requirements](https://docs.ansible.com/ansible/latest/reference_appendices/galaxy.html)
 - [terraform DO](https://www.terraform.io/docs/providers/do/index.html)
+- [docker network bridge](https://docs.docker.com/network/bridge/)
+- [docker logs](https://docs.docker.com/config/containers/logging/configure/)
+- [layers of docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
