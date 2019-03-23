@@ -11,3 +11,11 @@
 - [Консоль 21 века: mosh, tmux, fish](https://habr.com/ru/post/267797/)
 
 Зарегистировать аккаунт на digital ocean [ссыка](https://m.do.co/c/143ed180769e)
+
+
+Ссылки:
+
+- [docker best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [docker storage](https://docs.docker.com/storage/)
+- [ansible galaxy requirements](https://docs.ansible.com/ansible/latest/reference_appendices/galaxy.html)
+- [terraform DO](https://www.terraform.io/docs/providers/do/index.html)
