@@ -1,0 +1,4 @@
+example_terraform/droplet/.terraform/
+.terraform.tfstate.lock*
+terraform.tfstate
+terraform.tfstate.backup
