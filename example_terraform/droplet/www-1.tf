@@ -5,6 +5,6 @@ resource "digitalocean_droplet" "www-1" {
   region = "sgp1"
   size   = "s-1vcpu-1gb"
   ssh_keys = [
-    "${var.ssh_fingerprint}"
+    "${var.eldars_ssh_fingerprint}"
   ]
 }
